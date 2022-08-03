@@ -32,7 +32,7 @@ This will be your project folder. Sub-trials 1,2,5,6,7,8 & 9 are required.
 
 <h5>•	Step-3: Run ‘Module 1 – data pre-processing’ from your project folder.
 <h6>Within the code, you will see a variable entitled 'working_folder'. Please change this path to reflect your designated project folder.
-Output: You should see a subfolder entitled: LSTM_Training Data. This folder should contain XXXX data.
+Output: You should see a subfolder entitled: LSTM training_data. This folder should contain XXXX data.
 
 <h5>•	Step-4: Run ‘Module 2 – pre-train model’ from your project folder. 
 <h6>Output: You should see a subfolder entitled: Pre-trained_Model. This folder contains the pre-trained model state dictionary.
