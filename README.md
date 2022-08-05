@@ -36,19 +36,19 @@ Output: You should see a subfolder entitled: LSTM training_data. This folder sho
 
 <h5>•	Step-4: Run ‘Module 2 – pre-train model’ from your project folder. 
 <h6>Within the code, you will see a variable entitled 'working_folder'. Please change this path to reflect your designated project folder.
-<h6>Output: You should see a subfolder entitled: Pre-trained_Model. This folder contains the pre-trained model state dictionary.
+Output: You should see a subfolder entitled: Pre-trained_Model. This folder contains the pre-trained model state dictionary.
 
 <h5>•	Step-5: Run ‘Module 3 – ODT train model’ your project folder.
 <h6>Within the code, you will see a variable entitled 'working_folder'. Please change this path to reflect your designated project folder.
-<h6>Output: You should see a subfolder entitled: ODT_Model. This folder contains the ODT model state dictionary.
+Output: You should see a subfolder entitled: ODT_Model. This folder contains the ODT model state dictionary.
 
 <h5>•	Step-6: Run ‘Module 4 - simulate vehicle trajectories ’ your project folder.
 <h6>Within the code, you will see a variable entitled 'working_folder'. Please change this path to reflect your designated project folder.
-<h6>Output: A sub-folder entitled: Simulated Trajectories should appear. This folder contains two CSV files. One for each model's simulated trajectories.
+Output: A sub-folder entitled: Simulated Trajectories should appear. This folder contains two CSV files. One for each model's simulated trajectories.
 
 <h5>•	Step-7: Run ‘Module 5 – results’ your project folder.
 <h6>Within the code, you will see a variable entitled 'working_folder'. Please change this path to reflect your designated project folder.
-<h6>Output: XXX data
+Output: XXX data
 
 <h4>Results explanation:
 XXX
