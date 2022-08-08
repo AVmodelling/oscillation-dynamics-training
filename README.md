@@ -14,7 +14,7 @@ Module 3 – ODT model<br />
 This module loads the pre-trained model from module 2 and further trains it, using the ODT algorithm. 
 
 Module 4 – simulate vehicle trajectories<br />
-This module simulates vehicle trajectories of a selected sub-trail using both pre-trained and ODT car-following models. Sub-trial 9 is the currently selected sub-trial.
+This module simulates vehicle trajectories of a selected sub-trial using both pre-trained and ODT car-following models. Sub-trial 9 is the currently selected sub-trial.
 
 Module 5 – results<br />
 The simulated trajectories are then compared to the true data and the results reported.
@@ -45,7 +45,7 @@ Output: You should see a subfolder entitled: ODT_Model. This folder contains the
 
 <h5>•	Step-6: Run ‘Module 4 - simulate vehicle trajectories’ from your project folder.
 <h6>Within the code, you will see a variable entitled 'working_folder'. Please change this path to reflect your designated project folder.<br />
-Output: A sub-folder entitled: Simulated Trajectories should appear. This folder contains two CSV files. One for each model's simulated trajectories.
+Output: You should see a sub-folder intitled: 04_trajectories simulated. This folder contains two CSV files. One for each model's simulated trajectories.
 
 <h5>•	Step-7: Run ‘Module 5 – results’ from your project folder.
 <h6>Within the code, you will see a variable entitled 'working_folder'. Please change this path to reflect your designated project folder.<br />
