@@ -10,8 +10,8 @@ This module takes the source data and converts it to the format required by the 
 Module 2 – pre-train model<br />
 This module trains an LSTM on the data from step 1. The model state dictionary is saved for further use.
 
-Module 3 – ODT train model<br />
-This module loads the pre-trained model from module 2 and further trains it, using the ODT training algorithm. 
+Module 3 – ODT model<br />
+This module loads the pre-trained model from module 2 and further trains it, using the ODT algorithm. 
 
 Module 4 – simulate vehicle trajectories<br />
 This module simulates vehicle trajectories of a selected sub-trail using both pre-trained and ODT car-following models. Sub-trial 9 is the currently selected sub-trial.
