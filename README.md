@@ -1,4 +1,4 @@
-<h6>Please note: repository is currently WIP. Code modules will be added shortly.
+<h6>Please note: repository is currently Work in Progress. Code modules will be added shortly.
 <h2>Welcome to ODT – a novel car-following training algorithm.<h2>
 <h4>ODT (Oscillation Dynamics Training) trains an LSTM car-following model to capture platoon dynamics during oscillations.
 
