@@ -38,7 +38,7 @@ Output: You should see a subfolder entitled: LSTM training_data. This folder sho
 <h6>Within the code, you will see a variable entitled 'working_folder'. Please change this path to reflect your designated project folder.<br />
 Output: You should see a subfolder entitled: Pre-trained_Model. This folder contains the pre-trained model state dictionary.
 
-<h5>•	Step-5: Run ‘Module 3 – ODT train model’ your project folder.
+<h5>•	Step-5: Run ‘Module 3 – ODT model’ your project folder.
 <h6>Within the code, you will see a variable entitled 'working_folder'. Please change this path to reflect your designated project folder.<br />
 Output: You should see a subfolder entitled: ODT_Model. This folder contains the ODT model state dictionary.
 
