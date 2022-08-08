@@ -40,6 +40,7 @@ Output: You should see a subfolder entitled: Pre-trained_Model. This folder cont
 
 <h5>•	Step-5: Run ‘Module 3 – ODT model’ your project folder.
 <h6>Within the code, you will see a variable entitled 'working_folder'. Please change this path to reflect your designated project folder.<br />
+Note: ODT training can take sometime to complete. Depending on the machine being used, this could take several hours.
 Output: You should see a subfolder entitled: ODT_Model. This folder contains the ODT model state dictionary.
 
 <h5>•	Step-6: Run ‘Module 4 - simulate vehicle trajectories ’ your project folder.
